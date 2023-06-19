@@ -22,7 +22,7 @@ Após gerar os dados, para configurar o Arduino IDE pela primeira vez:
 - Acessar o Arduino IDE
 - Conectar o Raspberry Pi Pico
 - Na lateral esquerda, acessar Boards Manager (segundo ícone) e procurar "Arduino Mbed RP2040 Boards". Instalar a versão 4.0.2 ou mais recente.
-- Carregar 'Biblioteca/Arduino_TensorFlowLite-2.4.0-ALPHA.zip' (Sketch->Include Library->Add .Zip Library)
+- Carregar 'Libs/Arduino_TensorFlowLite-2.4.0-ALPHA.zip' (Sketch->Include Library->Add .Zip Library)
 
 Após configurar, para inferenciar:
 - Carregar Sketch/sketch_cnn_in_i8_out_i8_db
