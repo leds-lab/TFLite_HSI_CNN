@@ -56,8 +56,8 @@ J. V. S. Hütner, F. Viel, C. A. Zeferino and E. A. Bezerra, "TinyML Applied in 
 
 @INPROCEEDINGS{hutner2024tinyML,
   author={Hütner, João Victor Santos and Viel, Felipe and Zeferino, Cesar A. and Bezerra, Eduardo Augusto},
-  booktitle={2024 XIV Brazilian Symposium on Computing Systems Engineering (SBESC)}, 
-  title={TinyML Applied in Hyperspectral Image Classification on COTS Microcontroller}, 
+  booktitle={2024 XIV Brazilian Symposium on Computing Systems Engineering (SBESC)},
+  title={TinyML Applied in Hyperspectral Image Classification on COTS Microcontroller},
   year={2024},
   volume={},
   number={},
