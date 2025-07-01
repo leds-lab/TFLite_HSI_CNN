@@ -54,14 +54,14 @@ Repository for TFLite HSI CNN classification on the RP2040 microcontroller (Rasp
 
 J. V. S. Hütner, F. Viel, C. A. Zeferino and E. A. Bezerra, "TinyML Applied in Hyperspectral Image Classification on COTS Microcontroller," 2024 XIV Brazilian Symposium on Computing Systems Engineering (SBESC), Recife, Brazil, 2024, pp. 1-6, doi: 10.1109/SBESC65055.2024.10771925.
 
-@INPROCEEDINGS{hutner2024tinyML,
-  author={Hütner, João Victor Santos and Viel, Felipe and Zeferino, Cesar A. and Bezerra, Eduardo Augusto},
-  booktitle={2024 XIV Brazilian Symposium on Computing Systems Engineering (SBESC)},
-  title={TinyML Applied in Hyperspectral Image Classification on COTS Microcontroller},
-  year={2024},
-  volume={},
-  number={},
-  pages={1-6},
-  keywords={Deep learning;Adaptation models;Satellites;Microcontrollers;Tiny machine learning;Computational modeling;Convolutional neural networks;CubeSat;Hyperspectral imaging;Image classification;Hyperspectral Image;TinyML;CNN;CubeSat;COTS},
-  doi={10.1109/SBESC65055.2024.10771925}}
+   @INPROCEEDINGS{hutner2024tinyML,
+     author={Hütner, João Victor Santos and Viel, Felipe and Zeferino, Cesar A. and Bezerra, Eduardo Augusto},
+     booktitle={2024 XIV Brazilian Symposium on Computing Systems Engineering (SBESC)},
+     title={TinyML Applied in Hyperspectral Image Classification on COTS Microcontroller},
+     year={2024},
+     volume={},
+     number={},
+     pages={1-6},
+     keywords={Deep learning;Adaptation models;Satellites;Microcontrollers;Tiny machine learning;Computational modeling;Convolutional neural networks;CubeSat;Hyperspectral imaging;Image classification;Hyperspectral Image;TinyML;CNN;CubeSat;COTS},
+     doi={10.1109/SBESC65055.2024.10771925}}
 
